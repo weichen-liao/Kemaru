@@ -1,8 +1,8 @@
 Kemaru game
 Author: Weichen Liao
 
-![alt text](http://url/to/img.png)
-
+![frontpage](https://github.com/weichen-liao/Kemaru/blob/main/frontpage.png)
+![gamepage](https://github.com/weichen-liao/Kemaru/blob/main/gameinterface.png)
 
 start this by running launch.py
 
@@ -18,6 +18,7 @@ return: return to the welcome page.
 
 
 file descriptions:
+
 launch.py: design interfaces and pages, draw grids and shapes, control game processes.
 shapes.py: give notations to different shapes
 cut_grid.py: give random grid if the "New game" button is clicked
