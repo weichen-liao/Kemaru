@@ -1,9 +1,10 @@
 Kemaru game
 Author: Weichen Liao
 
+![alt text](http://url/to/img.png)
+
 
 start this by running launch.py
-
 
 included functionalities are: 
 choose game size, 
